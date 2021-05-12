@@ -1,4 +1,4 @@
-### About Me!
+### About Me!
 - kyonggi univ 18's 
   - Applied Statistics & Convergence Data Engineering
  
