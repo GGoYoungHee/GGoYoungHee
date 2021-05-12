@@ -3,6 +3,7 @@
 - BOAZ 13's : Visualization 2 term, Analysis 1term
 
 
+
 - 2020.09.01 ~ : Kyonggi univ Undergraduate research student in Bio Informatics Lab
 - 2021.03.01 ~ 2021.06.01 (Expected): Kyonggi univ Undergraduate research student in C&S lab
 
@@ -21,12 +22,6 @@
 - QGIS
 - Tableau
 - R shiny
-
-
-### Projects
-- RGBrand : 기업 색채 마케팅 분석
-- 리뷰 분석을 통한 제조 자동화 구축  (Smart Factory)
-- 
 
 
 ### Awards
