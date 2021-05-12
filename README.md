@@ -1,4 +1,4 @@
-### 🙋‍♀️ About Me! 🙋‍♀️
+### 🙋‍♀️ About Me!
 - Kyonggi univ 18's 🏫
   - Applied Statistics 
   - Convergence Data Engineering
@@ -11,24 +11,24 @@
 
 - Kyonggi univ Undergraduate research student in Bio Informatics Lab (2020.09.01 ~ ) 🔬
 - Kyonggi univ Undergraduate research student in C&S lab (2021.03.01 ~ 2021.06.01, 예정)
-### 🥰 Interests 🥰
+### 🥰 Interests 
 - Bigdata
 - Statistical Machine Learnig 📊
 - Deep Learning (Vision...?) 
 - BioStat ...?
 
-### 💻 Programming 💻
+### 💻 Programming 
 - R
 - Python
 - SQL
 
-### 📈 Visualization Tools 📈
+### 📈 Visualization Tools
 - QGIS
 - Tableau
 - R shiny
 
 
-### 🏅Awards 🏅
+### 🏅Awards
 - 2020 국립 중앙 도서관 빅데이터 분석 활용 공모전 최우수상
 - 2020 서울특별시 빅데이터 캠퍼스 공모전 우수상
 
