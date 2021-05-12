@@ -17,7 +17,7 @@
 - Deep Learning (Vision...?)
 - BioStat ...?
 
-### Laguage
+### Programming
 - R
 - Python
 - SQL
