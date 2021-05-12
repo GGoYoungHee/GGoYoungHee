@@ -1,6 +1,10 @@
 ### About Me!
-- kyonggi univ 18's : Applied Statistics & Convergence Data Engineering
-- BOAZ 13's : Visualization 2 term, Analysis 1term
+- kyonggi univ 18's 
+  - Applied Statistics & Convergence Data Engineering
+ 
+- BOAZ 13's 
+  - Visualization 2 term
+  - Analysis 1term
 
 </br>
 
