@@ -8,8 +8,8 @@
 
 </br>
 
-- 2020.09.01 ~ : Kyonggi univ Undergraduate research student in Bio Informatics Lab
-- 2021.03.01 ~ 2021.06.01 (Expected): Kyonggi univ Undergraduate research student in C&S lab
+- Kyonggi univ Undergraduate research student in Bio Informatics Lab (2020.09.01 ~ )
+- Kyonggi univ Undergraduate research student in C&S lab (2021.03.01 ~ 2021.06.01, 예정)
 
 ### Interests
 - Bigdata
