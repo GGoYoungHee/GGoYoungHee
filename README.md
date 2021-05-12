@@ -1,4 +1,4 @@
-### About Me!
+### About Me!
 - kyonggi univ 18's 
   - Applied Statistics & Convergence Data Engineering
  
@@ -31,6 +31,8 @@
 ### Awards
 - 2020 국립 중앙 도서관 빅데이터 분석 활용 공모전 최우수상
 - 2020 서울특별시 빅데이터 캠퍼스 공모전 우수상
+
+
 
 <!--
 **GGoYoungHee/GGoYoungHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
