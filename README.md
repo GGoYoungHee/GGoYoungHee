@@ -15,7 +15,7 @@
 - Bigdata
 - Statistical Machine Learnig 📊
 - Deep Learning (Vision...?) 
-- BioStat ...?
+- BioStatistics ...?
 
 ### 💻 Programming 
 - R
