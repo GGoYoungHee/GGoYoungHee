@@ -9,8 +9,9 @@
 
 </br>
 
-- Kyonggi univ Undergraduate research student in Bio Statistics Lab (2020.09.01 ~ ) 🔬
-- Kyonggi univ Undergraduate research student in C&S lab (2021.03.01 ~ 2021.06.01, 예정)
+- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09.01 ~ ) 🔬
+- Kyonggi univ Undergraduate research student in Chungun Park's Lab (2021.03.01 ~ 2021.06.01, 예정)
+
 ### 🥰 Interests 
 - Bigdata
 - Statistical Machine Learnig 📊
