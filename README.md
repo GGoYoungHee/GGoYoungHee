@@ -7,7 +7,7 @@
   - Visualization 2 term
   - Analysis 1term
 
-- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09.01 ~ ) 🔬
+- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09.01 ~ ) :books:
 
 ### 🥰 Interests 
 - Bigdata
