@@ -17,8 +17,8 @@
 
 
 ### 💻 Programming 
-- R
 - Python
+- R
 - SQL
 
 ### 📈 Visualization Tools
