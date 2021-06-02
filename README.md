@@ -12,8 +12,8 @@
 ### 🥰 Interests 
 - Bigdata
 - Statistical Machine Learnig 📊
-- BioStatistics ...?
-- Deep Learning (Vision...?) 
+- BioStatistics
+- Deep Learning (Vision) 
 
 
 ### 💻 Programming 
