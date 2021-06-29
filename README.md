@@ -7,7 +7,7 @@
   - Visualization 2 term
   - Analysis 1term
 
-- Kyonggi univ Undergraduate research student at Prof. Yujin Chung's Lab (2020.09.01 ~ ) :books:
+- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09.01 ~ ) :books:
 
 ### 🥰 Interests 
 - Bigdata
@@ -30,6 +30,7 @@
 ### 🏅Awards
 - 2020 국립 중앙 도서관 빅데이터 분석 활용 공모전 최우수상
 - 2020 서울특별시 빅데이터 캠퍼스 공모전 우수상
+
 
 
 
