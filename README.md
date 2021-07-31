@@ -3,7 +3,7 @@
   - Applied Statistics 
   - Convergence Data Engineering
  
-- BOAZ 13's 🐘
+- BOAZ 13's : Association of University Students 🐘
   - Visualization 2 term
   - Analysis 1term
 
