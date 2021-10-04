@@ -1,13 +1,13 @@
 ### 🙋‍♀️ About Me!
-- Kyonggi univ 18's 🏫
+- Kyonggi univ 18's 🏫 (2018.03 ~ 2022.02)
   - Applied Statistics 
   - Convergence Data Engineering
  
-- BOAZ 13's 🐘
-  - Visualization 2 term
-  - Analysis 1term
+- BOAZ 13's 🐘 (2019.07 ~ 2020.08)
+  - Big data association club for college students
+  - Visualization 2 term, Analysis 1term
 
-- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09.01 ~ ) :books:
+- Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
 
 ### 🥰 Interests 
 - Bigdata
