@@ -10,7 +10,6 @@
 - Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
 
 ### 🥰 Interests 
-- Bigdata
 - Statistical Machine Learnig 📊
 - BioStatistics
 - Deep Learning (Vision) 
