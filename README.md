@@ -11,7 +11,7 @@
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
-- BioStatistics
+- BioStatistics / BigData
 - Deep Learning (Vision) 
 
 
