@@ -5,7 +5,7 @@
  
 - BOAZ 13's 🐘 (2019.07 ~ 2020.08)
   - Big data association club for college students
-  - Visualization 2 term, Analysis 1term
+  - Visualization, Analysis
 
 - Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
 
