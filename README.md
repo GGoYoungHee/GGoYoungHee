@@ -11,8 +11,7 @@
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
-- Big Data
-- Time Series  Data
+- Time Series  Data / Big Data
 - Deep Learning (Vision) 
 
 
