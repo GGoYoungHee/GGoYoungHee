@@ -1,5 +1,5 @@
 ### 🙋‍♀️ About Me!
-- Kyonggi univ 18's 🏫 (2018.03 ~ 2022.02)
+- Kyonggi univ 18's 🏫 (2018.03 ~ )
   - Applied Statistics 
   - Convergence Data Engineering
  
