@@ -8,6 +8,7 @@
   - Visualization, Analysis
 
 - Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
+- Deep Daiv's Manager (2021.12.15 ~ )
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
