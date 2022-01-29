@@ -8,12 +8,16 @@
   - Visualization, Analysis
 
 - Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
+  - BioStatistics
+  - Statistical Machine Learning
+  - Multiple Testing Procedure
+
 - Team Deep Daiv's Manager (2021.12.15 ~ )
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
-- Time Series  Data / Big Data
-- Deep Learning (Vision) 
+- Big Data
+- Deep Learning (Computer Vision) 
 
 
 ### 💻 Programming 
