@@ -7,6 +7,10 @@
   - Big data association club for college students
   - Visualization, Analysis
 
+
+- Kyonggi univ Undergraduate research student in Chungun Park's Lab (2021.03 ~ 2021.06)
+  - NLP
+  
 - Kyonggi univ Undergraduate research student in Prof. Yujin Chung's Lab (2020.09 ~ ) :books:
   - BioStatistics
   - Statistical Machine Learning
