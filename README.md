@@ -22,6 +22,7 @@
 - Statistical Machine Learnig 📊
 - Big Data
 - Deep Learning (Computer Vision) 
+- XAI
 
 
 ### 💻 Programming 
