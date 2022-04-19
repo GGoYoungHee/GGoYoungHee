@@ -20,8 +20,7 @@
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
-- Big Data
-- Deep Learning (Computer Vision) 
+- Deep Learning
 - XAI
 
 
