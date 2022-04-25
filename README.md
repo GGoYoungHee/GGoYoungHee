@@ -4,7 +4,7 @@
   - Convergence Data Engineering
  
 - BOAZ 13's 🐘 (2019.07 ~ 2020.08)
-  - Big data association club for college students
+  - Academic community about Big-data
   - Visualization, Analysis
 
 
