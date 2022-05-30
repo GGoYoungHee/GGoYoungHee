@@ -16,7 +16,7 @@
   - Statistical Machine Learning
   - Multiple Testing Procedure
 
-- Team Deep Daiv's Manager (2021.12.15 ~ )
+- Team deep daiv's Manager (2021.12.15 ~ )
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
