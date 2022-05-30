@@ -30,6 +30,8 @@
 - Python
 - R
 - SQL
+- SAS
+- HTML
 
 ### 📈 Visualization Tools
 - QGIS
