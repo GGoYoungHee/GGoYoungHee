@@ -35,8 +35,8 @@
 - R shiny
 
 ### 📄Operating System
-- Linux (Putty, Ubuntu)
 - Window
+- Linux (Putty, Ubuntu)
 
 ### 🏅Awards
 - 2020 국립 중앙 도서관 빅데이터 분석 활용 공모전 최우수상
