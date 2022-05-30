@@ -16,7 +16,7 @@
   - Statistical Machine Learning
   - Multiple Testing Procedure
 
-- Team deep daiv's Manager (2021.12.15 ~ )
+- Team deep daiv's Manager (2021.12.15 ~ 2022.03.31)
 
 ### 🥰 Interests 
 - Statistical Machine Learnig 📊
@@ -34,6 +34,9 @@
 - Tableau
 - R shiny
 
+### 📄Operating System
+- Linux (Putty, Ubuntu)
+- Window
 
 ### 🏅Awards
 - 2020 국립 중앙 도서관 빅데이터 분석 활용 공모전 최우수상
